@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw_data/
+data/processed_data/
+
+# VSCode
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
